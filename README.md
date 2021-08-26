@@ -1,7 +1,8 @@
 Hey Hola 👋
 
-- Estudiante de Ing. en Sistemas (7mo cuatrimestre) en la Universidad O&M.
+- Estudiante de Ing. en Sistemas (9no cuatrimestre) en la Universidad O&M.
 - Manejo del idioma inglés (Básico).
+- Conocimientos básicos en C#.
 - Estoy realizando un curso de Desarrollo Web (HTML, CSS, JavaScript, MySQL, jQUERY, AJAX, PHP) en Udemy.
 
 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
