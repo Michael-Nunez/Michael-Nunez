@@ -1,9 +1,9 @@
 Hey Hola 👋
 
-- Estudiante de Ing. en Sistemas (9no cuatrimestre) en la Universidad O&M.
+- Estudiante de Ing. en Sistemas (9no cuatrimestre) en la Universidad Dominicana O&M.
 - Manejo del idioma inglés (Básico).
-- Conocimientos básicos en C#.
-- Estoy realizando un curso de Desarrollo Web (HTML, CSS, JavaScript, MySQL, jQUERY, AJAX, PHP) en Udemy.
+- Conocimientos básicos en C#, ASP.NET MVC 5, Linq, ADO.Net, Entity Framework, Data Annotations, SQL Server, Store Procedures.
+- Conocimientos básicos en Desarrollo Web (HTML, CSS, JavaScript, MySQL, jQUERY, AJAX, PHP).
 
 👨🏽‍💻 Creo proyectos todos los dias con el fin de mejorar mis habilidades.
 
