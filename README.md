@@ -1,7 +1,7 @@
 Hey Hola 👋
 
-- Estudiante de Ing. en Sistemas (9no cuatrimestre) en la Universidad Dominicana O&M.
-- Manejo del idioma inglés (Básico).
+- Estudiante de Ingeniería en Sistemas y Computación (9no cuatrimestre) en la Universidad Dominicana O&M.
+- Manejo del idioma inglés (A2).
 - Conocimientos básicos en C#, ASP.NET MVC 5, ASP.NET Core, Linq, ADO.Net, Entity Framework, Data Annotations, SQL Server, Store Procedures.
 - Conocimientos básicos en Desarrollo Web (HTML, CSS, JavaScript, MySQL, jQUERY, AJAX, PHP).
 
@@ -9,7 +9,7 @@ Hey Hola 👋
 
 💬 Me mantengo en constante aprendizaje.
 
-🛰 2021 Goals: Crear un buen proyecto (estoy en planificación aún).
+🛰 2021 Goals: Seguir mejorando y profundizando en el aprendizaje del lenguaje de programación C# en ASP.NET y Aprender Cloud Computing en Azure.
 
 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte y viceversa.
 
