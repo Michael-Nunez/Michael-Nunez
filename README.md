@@ -9,7 +9,7 @@ Hey Hola 👋
 
 💬 Me mantengo en constante aprendizaje.
 
-🛰 2021 Goals: Seguir mejorando y profundizando en el aprendizaje del lenguaje de programación C# en ASP.NET y Aprender Cloud Computing en Azure.
+🛰 2022 Goals: Seguir mejorando y profundizando en el aprendizaje del lenguaje de programación C# en ASP.NET, aprender Angular y Aprender Cloud Computing en Azure.
 
 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte y viceversa.
 
