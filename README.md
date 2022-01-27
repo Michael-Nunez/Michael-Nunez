@@ -15,3 +15,5 @@ Hey Hola 👋
 💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte y viceversa.
 
 📫 Contactame: michaeljnunez314@gmail.com
+
+📫 LinkedIn: https://www.linkedin.com/in/michael-j-nunez-3a8032204/
