@@ -16,4 +16,4 @@ Hey Hola 👋
 
 📫 Contactame: michaeljnunez314@gmail.com
 
-📫 LinkedIn: https://www.linkedin.com/in/michael-j-nunez-3a8032204/
+📫 LinkedIn: https://www.linkedin.com/in/michael-j-n%C3%BA%C3%B1ez-3a8032204/
