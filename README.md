@@ -1,6 +1,6 @@
 Hey Hola 👋
 
-- Soy Software Developer Junior.
+- Soy .NET Developer Junior.
 - Estudiante de Ingeniería en Sistemas y Computación (11vo cuatrimestre) en la Universidad Dominicana O&M.
 - Manejo del idioma inglés (B1).
 - Conocimientos en C#, ASP.NET Web API, Blazor (Server & WASM), ASP.NET MVC 5, .NET Framework, .NET Core, Linq, ADO.Net, Entity Framework, Data Annotations, SQL Server, Store Procedures.
