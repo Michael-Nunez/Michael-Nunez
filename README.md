@@ -1,15 +1,15 @@
-Hey/Hola 👋
+Hey/Hello 👋
 
-- .NET Fullstack Developer.
-- Ingeniero en Sistemas y Computación - Universidad Dominicana O&M.
-- Manejo del idioma inglés (C1).
-- Conocimientos en Angular 13+, React, Ionic, C#, ASP.NET Web API, Blazor (Server & WASM), ASP.NET MVC 5, .NET Framework, .NET Core, Linq, ADO.Net, Entity Framework, Data Annotations, SQL Server, Store Procedures.
-- Conocimientos en Desarrollo Web (HTML, CSS, JavaScript, MySQL, jQUERY, AJAX, PHP).
+- .NET Fullstack Developer
+- Bachelor's degree in Systems and Computer Engineering - Universidad Dominicana O&M
+- English language proficiency (C1)
+- Backend Development in C#, ASP.NET Web API, Blazor (Server & WASM), ASP.NET MVC 5, .NET Framework, .NET Core, LINQ, ADO.NET, Entity Framework, Data Annotations, SQL Server, Stored Procedures
+- Frontend Web Development JavaScript/TypeScript (Angular 18+, React & Vue)
 
-💬 Me mantengo en constante aprendizaje.
+💬 I am constantly learning
 
-💬 Preguntame cualquier cosa, estoy dispuesto a ayudarte y viceversa.
+💬 Ask me anything, I am willing to help you and vice versa
 
-📫 Contactame: michaeljnunez314@gmail.com
+📫 Contact me: michaeljnunez314@gmail.com
 
 📫 LinkedIn: https://www.linkedin.com/in/michael-j-n%C3%BA%C3%B1ez-3a8032204/
